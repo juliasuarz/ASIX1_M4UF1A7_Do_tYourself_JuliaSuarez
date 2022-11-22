@@ -23,8 +23,4 @@
     * Regla 10. Los elementos `h1` tendrán color blanco y un `text-align` en el centro.
     
     * Regla 11. Los elementos `img` tendrán un ancho `width` de `50%` y relleno de 20% a izquierda y derecha.
-# ASIX1_M4UF1A7_DIY_Eric_JuliaSuarez
-# ASIX1_M4UF1A7_DIY_Eric_JuliaSuarez
-# ASIX1_M4UF1A7_DIY_Eric_JuliaSuarez
-# ASIX1_M4UF1A7_DIY_Eric_JuliaSuarez
-# ASIX1_M4UF1A7_Do_tYourself_JuliaSuarez
+
